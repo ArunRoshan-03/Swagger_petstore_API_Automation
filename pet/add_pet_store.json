@@ -1,0 +1,18 @@
+{
+  "id": 2048,
+  "category": {
+    "id": 1,
+    "name": "Simple Pet store"
+  },
+  "name": "doggie",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 234,
+      "name": "Pug"
+    }
+  ],
+  "status": "available"
+}
